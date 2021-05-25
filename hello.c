@@ -8,7 +8,7 @@
 int main()
 {
 
-    // prints hello world
+    // prints hello worl
     printf("Hello World");
 
     return 0;
